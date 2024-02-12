@@ -1,0 +1,2 @@
+# InstaJsonToExcelConverter
+ InstaJsonToExcelConverter is a C# Windows Forms application designed to simplify the process of converting Instagram-related JSON data into Excel files. The application allows users to select a folder containing JSON files obtained from Instagram and efficiently converts them into a single Excel workbook. The conversion includes parsing and organizing data, such as follower relationships and timestamps, making it easy to analyze and visualize Instagram data in a tabular format.
